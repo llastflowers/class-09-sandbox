@@ -1,0 +1,11 @@
+* {
+    font-size: 25px;
+}
+
+label {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 200px;
+}
